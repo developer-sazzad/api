@@ -1,0 +1,62 @@
+[
+    {
+        "project_name": "Project 1",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "HTML",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 2",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "HTML, CSS, JS",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 3",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "CSS",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 4",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "JavaScript",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 5",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "HTML",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 6",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "PHP",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 7",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "WordPress",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 8",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "HTML, JavaScript, Tailwind",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 9",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "Bootstrap",
+        "project_url": "https://gsmarena.com/"
+    },
+    {
+        "project_name": "Project 10",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis, inventore!",
+        "language": "HTML, Bootstrap",
+        "project_url": "https://gsmarena.com/"
+    }
+]
